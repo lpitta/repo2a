@@ -1,0 +1,16 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "transport": "scp",
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "lpitta",
+  "password": "qoyu78",
+  "watch": []
+}
